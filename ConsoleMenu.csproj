@@ -11,6 +11,11 @@
     <PackageId>ConsoleMeunSystem</PackageId>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
+    <RepositoryUrl>https://github.com/bjornBES/Menus/tree/master</RepositoryUrl>
+    <RepositoryType>github</RepositoryType>
+    <PackageTags>Console, Menu</PackageTags>
+    <NeutralLanguage>en</NeutralLanguage>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
   </PropertyGroup>
 
   <ItemGroup>
